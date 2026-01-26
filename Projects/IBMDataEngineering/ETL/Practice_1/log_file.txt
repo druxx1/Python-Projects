@@ -1,0 +1,16 @@
+2026-Jan-13-22:54:15,ETL Job Started
+2026-Jan-13-22:54:15,Extract phase Started
+2026-Jan-13-22:54:15,Extract phase Ended
+2026-Jan-13-22:54:15,Transform phase Started
+2026-Jan-13-22:54:36,ETL Job Started
+2026-Jan-13-22:54:36,Extract phase Started
+2026-Jan-13-22:54:37,Extract phase Ended
+2026-Jan-13-22:54:37,Transform phase Started
+2026-Jan-13-22:56:46,ETL Job Started
+2026-Jan-13-22:56:46,Extract phase Started
+2026-Jan-13-22:56:46,Extract phase Ended
+2026-Jan-13-22:56:46,Transform phase Started
+2026-Jan-13-22:56:46,Transform phase Ended
+2026-Jan-13-22:56:46,Load phase Started
+2026-Jan-13-22:56:46,Load phase Ended
+2026-Jan-13-22:56:46,ETL Job Ended
